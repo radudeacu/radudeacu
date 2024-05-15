@@ -1,12 +1,10 @@
 <h1 align="center">Hello There 👋/h1>
-  
-<h3>
-- 👋 Hi, I’m Radu Deacu @radudeacu
-- 👀 I’m interested in Reactjs, NodeJs, TypeScript and Data Science
-- 🌱 I am currently learning and seeking to broaden my area of expertise."
-- 💞️ I’m looking to collaborate with other developers to extend my knowledge
-- 📫 How to reach me **deacuradu@gmail.com**
-</h3>
+
+<h5 align="left">- 👋 Hi, I’m Radu Deacu @radudeacu</h5>
+<h5 align="left">- 👀 I’m interested in Reactjs, NodeJs, TypeScript and Data Science</h5>
+<h5 align="left">- 🌱 I am currently learning and seeking to broaden my area of expertise."</h5>
+<h5 align="left">- 💞️ I’m looking to collaborate with other developers to extend my knowledge</h5>
+<h5 align="left">- 📫 How to reach me **deacuradu@gmail.com**</h5>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
