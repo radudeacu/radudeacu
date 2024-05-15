@@ -1,4 +1,4 @@
-<h1 align="center">Hello There 👋/h1>
+<h1 align="center">Hello There 👋</h1>
 
 <h5 align="left">- 👋 Hi, I’m Radu Deacu @radudeacu</h5>
 <h5 align="left">- 👀 I’m interested in Reactjs, NodeJs, TypeScript and Data Science</h5>
