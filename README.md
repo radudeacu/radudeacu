@@ -1,7 +1,9 @@
-<h1 align="center">Hi 👋, I'm Radu</h1>
-
-<p align="left"> <a href="https://twitter.com/radudeacu" target="blank"><img src="https://img.shields.io/twitter/follow/radudeacu?logo=twitter&style=for-the-badge" alt="radudeacu" /></a> </p>
-
+<h1 align="center">Hello There 👋/h1>
+  
+- 👋 Hi, I’m Radu Deacu @radudeacu
+- 👀 I’m interested in Reactjs, NodeJs, TypeScript and Data Science
+- 🌱 I am currently learning and seeking to broaden my area of expertise."
+- 💞️ I’m looking to collaborate with other developers to extend my knowledge
 - 📫 How to reach me **deacuradu@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
