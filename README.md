@@ -1,7 +1,7 @@
 <h1 align="center">Hello There 👋</h1>
 
 <h5 align="left">- 👋 Hi, I’m Radu @radudeacu</h5>
-<h5 align="left">- 👀 I’m interested in Reactjs, NodeJs, TypeScript and Data Science</h5>
+<h5 align="left">- 👀 I’m interested in Audio Engineering, JUCE, Reactjs, NodeJs, TypeScript and Data Science</h5>
 <h5 align="left">- 🌱 I am currently learning and seeking to broaden my area of expertise."</h5>
 <h5 align="left">- 💞️ I’m looking to collaborate with other developers to extend my knowledge</h5>
 <h5 align="left">- 📫 How to reach me **deacuradu@gmail.com**</h5>
