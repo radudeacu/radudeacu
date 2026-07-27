@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Radu 👋</h1> <p align="center">Audio Engineer &amp; Software Developer — Audio Post-Production, DSP and the Web.</p>
 
 <h5 align="left">- 🎧 Audio Engineering and Post-Production, mostly in Pro Tools</h5>
-<h5 align="left">- 🎛️ Building audio software with C++ / JUCE</h5>
+<h5 align="left">- 🎛️ Building audio software with JUCE</h5>
 <h5 align="left">- 💻 Web work in React, Node.js and TypeScript</h5>
 <h5 align="left">- 🌱 Currently broadening my expertise across the audio/software stack</h5>
 <h5 align="left">- 💞️ Open to collaborating with other developers on audio and web projects</h5>
