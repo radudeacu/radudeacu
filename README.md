@@ -4,7 +4,7 @@
 <h5 align="left">- 🎛️ Building audio software with JUCE</h5>
 <h5 align="left">- 💻 Web work in React, Node.js and TypeScript</h5>
 <h5 align="left">- 🌱 Currently broadening my expertise across the audio/software stack</h5>
-<h5 align="left">- 💞️ Open to collaborating with other developers on audio and web projects</h5>
+<h5 align="left">- 💞️ Open to collaborating on Audio and Web projects</h5>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
